@@ -11,8 +11,7 @@ VAR MetaVenda = [DivisaoFormatada]
 RETURN
 
 "
-<!-- Componente OpenXBI para exibição de metas de vendas em formato de gráfico de barras -->
-<!-- Disponível em https://openxbi.com.br -->
+
 <div class='chart-container'>
   <div class='chart-content'>
     <div class='header'>
